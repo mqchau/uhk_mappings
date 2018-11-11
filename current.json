@@ -5310,12 +5310,12 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 74
+                  "scancode": 78
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 82
+                  "scancode": 75
                 },
                 {
                   "keyActionType": "keystroke",
@@ -5345,17 +5345,17 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 75
-                },
-                {
-                  "keyActionType": "keystroke",
-                  "type": "basic",
-                  "scancode": 80
+                  "scancode": 74
                 },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
                   "scancode": 81
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 82
                 },
                 {
                   "keyActionType": "keystroke",
@@ -5372,7 +5372,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 78
+                  "scancode": 80
                 },
                 {
                   "keyActionType": "keystroke",
@@ -5555,11 +5555,7 @@
                   "switchLayerMode": "holdAndDoubleTapToggle"
                 },
                 null,
-                {
-                  "keyActionType": "switchLayer",
-                  "layer": "mod",
-                  "switchLayerMode": "holdAndDoubleTapToggle"
-                },
+                null,
                 null
               ]
             }
